@@ -7,7 +7,9 @@
 usage: git commit -m "some comments"
 
 ```
+
 ---
+
 ## branch operations
 ``` git
 # git branch branchname to create a new branch
