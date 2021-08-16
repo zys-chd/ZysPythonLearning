@@ -23,3 +23,5 @@ usage: git commit -m "some comments"
 # 1 git merge branchname to merge the details in "branchname" to the current branch
 # 2 git rebase branchname to copy all the changes in current branch to the branchname branch
 ```
+
+![rebase图示](./src/pictures/rebase.png)
