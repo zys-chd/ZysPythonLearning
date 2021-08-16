@@ -6,6 +6,8 @@
 # used to commit a change to local git lib
 usage: git commit -m "some comments"
 
+# git config
+
 ```
 
 ---
